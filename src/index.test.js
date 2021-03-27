@@ -1,7 +1,7 @@
-import { ExampleComponent } from '.'
+import { React3dBoxBuilder } from '.'
 
-describe('ExampleComponent', () => {
+describe('React3dBoxBuilder', () => {
   it('is truthy', () => {
-    expect(ExampleComponent).toBeTruthy()
+    expect(React3dBoxBuilder).toBeTruthy()
   })
 })

@@ -1,10 +1,10 @@
 import React from 'react'
 
-import { ExampleComponent } from 'react-3d-box-builder'
+import { React3dBoxBuilder } from 'react-3d-box-builder'
 import 'react-3d-box-builder/dist/index.css'
 
 const App = () => {
-  return <ExampleComponent text="Create React Library Example 😄" />
+  return <React3dBoxBuilder text="react-3d-box-builder" />
 }
 
 export default App
